@@ -1,5 +1,5 @@
 package arrays.e;
-
+// https://leetcode.com/problems/search-insert-position/description/
 public class SearchInsert {
     public static int searchInsert(int[] nums, int target) {
         int low = 0;
