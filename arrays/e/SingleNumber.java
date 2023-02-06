@@ -34,10 +34,6 @@ class SingleNumber {
          }
          return nums[nums.length - 1];
  }
-
-    public static void main(String[] args) {
-        System.out.println(singleNumber(new int[] { 1, 2, 2 }));
-    }
 }
 
 
